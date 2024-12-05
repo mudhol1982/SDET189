@@ -1,0 +1,12 @@
+[ERROR]2024-11-1922:02:40.578[main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1922:02:40.583[main]utilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1922:02:40.583[main]utilities.LoggerLoad1)-Warning - Testing
+[ERROR]2024-11-1922:12:33.486[main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1922:12:33.489[main]utilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1922:12:33.490[main]utilities.LoggerLoad1)-Warning - Testing
+[ERROR]2024-11-1922:14:23.573[main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1922:14:23.580[main]utilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1922:14:23.580[main]utilities.LoggerLoad1)-Warning - Testing
+[ERROR]2024-11-1922:15:35.318[main]utilities.LoggerLoad1)-Error - You can not divide a number by zero
+[INFO ]2024-11-1922:15:35.321[main]utilities.LoggerLoad1)-Info  - Addition of integers
+[WARN ]2024-11-1922:15:35.321[main]utilities.LoggerLoad1)-Warning - Testing
